@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="api-server" target="1.8" />
+      <module name="api-server" target="8" />
       <module name="leagueup" target="1.5" />
     </bytecodeTargetLevel>
   </component>
